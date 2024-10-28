@@ -1,0 +1,5 @@
+bibtexparser==2.0.0b7
+termcolor==2.4.0
+pandas==2.2.2
+numpy==2.1.0
+jupyter==1.0.0
