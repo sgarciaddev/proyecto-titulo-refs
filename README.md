@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![python-badge]][python-web] [![latex-badge]][latex-web] [![bibtex-badge]]
-[bibtex-web] [![jupyter-badge]][jupyter-web]
+[![python-badge]][python-web] [![latex-badge]][latex-web] [![bibtex-badge]][bibtex-web] [![jupyter-badge]][jupyter-web]
 
 [![pycharm-badge]][pycharm-web]
 
